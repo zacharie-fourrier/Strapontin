@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ReadyPlayerMe.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Titouan LOISEAU\Documents\Unreal Projects\TestReadyPlayerMe\Intermediate\Build\Win64\TestReadyPlayerMeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Titouan LOISEAU\Documents\Unreal Projects\TestReadyPlayerMe\Plugins\ReadyPlayerMe\Intermediate\Build\Win64\UnrealEditor\Development\ReadyPlayerMe\Module.ReadyPlayerMe.cpp.obj"
+"D:\Titouan LOISEAU\Documents\Unreal Projects\TestReadyPlayerMe\Plugins\ReadyPlayerMe\Intermediate\Build\Win64\UnrealEditor\Development\ReadyPlayerMe\Module.ReadyPlayerMe.gen.cpp.obj"
+"D:\Titouan LOISEAU\Documents\Unreal Projects\TestReadyPlayerMe\Plugins\ReadyPlayerMe\Intermediate\Build\Win64\UnrealEditor\Development\ReadyPlayerMe\Default.rc2.res"
+/OUT:"D:\Titouan LOISEAU\Documents\Unreal Projects\TestReadyPlayerMe\Plugins\ReadyPlayerMe\Intermediate\Build\Win64\UnrealEditor\Development\ReadyPlayerMe\UnrealEditor-ReadyPlayerMe.lib"

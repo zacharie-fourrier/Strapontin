@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\titou\Documents\UE projets\Strapontin\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\titou\Documents\UE projets\Strapontin\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"C:\Users\titou\Documents\UE projets\Strapontin\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.gen.1_of_3.cpp.obj"
+"C:\Users\titou\Documents\UE projets\Strapontin\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.gen.2_of_3.cpp.obj"
+"C:\Users\titou\Documents\UE projets\Strapontin\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Module.AdvancedSessions.gen.3_of_3.cpp.obj"
+"C:\Users\titou\Documents\UE projets\Strapontin\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\Default.rc2.res"
+/OUT:"C:\Users\titou\Documents\UE projets\Strapontin\Plugins\AdvancedSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib"
