@@ -1,0 +1,7 @@
+1- Fix spawns in multiplayer
+2- Characters and animations
+3- map
+4- CONCEPT FOR THE GAME I DONT KNOW WHERE WE ARE GOING HELP
+5- Maybe new levels and menus, see n°4
+6- Playtesting
+7- Server build eventually maybe hypothetically
