@@ -29,5 +29,13 @@
 			"Name": "ReadyPlayerMe",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"HoloLens",
+		"IOS",
+		"Linux",
+		"LinuxArm64",
+		"TVOS",
+		"Windows"
 	]
 }
