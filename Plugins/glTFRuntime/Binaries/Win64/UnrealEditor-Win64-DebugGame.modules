@@ -1,8 +1,0 @@
-{
-	"BuildId": "19505902",
-	"Modules": 
-	{
-		"glTFRuntime": "UnrealEditor-glTFRuntime-Win64-DebugGame.dll",
-		"glTFRuntimeEditor": "UnrealEditor-glTFRuntimeEditor-Win64-DebugGame.dll"
-	}
-}
