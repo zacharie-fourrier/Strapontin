@@ -32,6 +32,10 @@
 		{
 			"Name": "AdvancedSteamSessions",
 			"Enabled": false
+		},
+		{
+			"Name": "SteamAudio",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
