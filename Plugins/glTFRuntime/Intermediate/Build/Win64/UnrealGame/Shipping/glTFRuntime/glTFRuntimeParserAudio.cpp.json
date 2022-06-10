@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "s:\\students\\noemie\\projet unreal engine\\plugins\\gltfruntime\\source\\gltfruntime\\private\\gltfruntimeparseraudio.cpp",
+        "ProvidedModule": "",
+        "PCH": "s:\\students\\noemie\\projet unreal engine\\intermediate\\build\\win64\\materwelon\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "s:\\students\\noemie\\projet unreal engine\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\shipping\\gltfruntime\\definitions.gltfruntime.h",
+            "s:\\students\\noemie\\projet unreal engine\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeparser.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\cameracomponent.generated.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\audiocomponent.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\public\\audio\\soundparametercontrollerinterface.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\soundparametercontrollerinterface.generated.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\audioextensions\\public\\iaudioparametertransmitter.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\audiomixer\\public\\quartz\\audiomixerclockhandle.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\quartzsubscription.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\signalprocessing\\public\\dsp\\volumefader.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\audiomixer\\public\\quartz\\quartzsubsystem.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\audiomixer\\public\\quartz\\audiomixerclockmanager.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\audiomixer\\public\\quartz\\audiomixerclock.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\audiomixer\\public\\quartz\\quartzmetronome.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\audiomixer\\quartzsubsystem.generated.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\audiomixer\\audiomixerclockhandle.generated.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\audiomixer\\public\\quartz\\audiomixerquantizedcommands.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\audiocomponent.generated.h",
+            "s:\\students\\noemie\\projet unreal engine\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeanimationcurve.h",
+            "s:\\students\\noemie\\projet unreal engine\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\inc\\gltfruntime\\gltfruntimeanimationcurve.generated.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealgame\\inc\\proceduralmeshcomponent\\proceduralmeshcomponent.generated.h",
+            "p:\\epic\\unrealengine\\ue_5.0\\engine\\source\\runtime\\core\\public\\serialization\\arrayreader.h",
+            "s:\\students\\noemie\\projet unreal engine\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\inc\\gltfruntime\\gltfruntimeparser.generated.h",
+            "s:\\students\\noemie\\projet unreal engine\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimesoundwave.h",
+            "s:\\students\\noemie\\projet unreal engine\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\inc\\gltfruntime\\gltfruntimesoundwave.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

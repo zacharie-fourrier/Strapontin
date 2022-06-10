@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "s:\\students\\noemie\\projet unreal engine\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\inc\\gltfruntime\\gltfruntime.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "s:\\students\\noemie\\projet unreal engine\\intermediate\\build\\win64\\materwelon\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "s:\\students\\noemie\\projet unreal engine\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\shipping\\gltfruntime\\definitions.gltfruntime.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
