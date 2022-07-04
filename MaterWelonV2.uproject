@@ -3,6 +3,16 @@
 	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "MaterWelonV2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -27,6 +37,18 @@
 		},
 		{
 			"Name": "ReadyPlayerMe",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": false
+		},
+		{
+			"Name": "VivoxCore",
 			"Enabled": true
 		}
 	]
